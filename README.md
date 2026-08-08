@@ -1,45 +1,10 @@
-<h1 align="center">root@jomawii:~# Jomari Miranda</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=JOMARI%20MIRANDA&fontColor=FFFFFF&fontSize=40&animation=fadeIn" width="100%"/>
+</p>
 
-<p align="center">Cybersecurity Student | Future Cloud Security Analyst</p>
-
-```                                                    
-
-                                                
-                    ++#*%#%%%%#-                   
-                .*%%%%%@%@@@@@@@%#.                
-               :%%%%%%%%%@%%@%%%%%#=               
-              -%%@%%%%%%%%%%%%%%%%##-              
-            *:@@%@@@@%%%%%%%%%%##%#%#.             
-            +%%%%@@@%@%%##%%#%%%%%%##*+            
-             @@%%%%%%%%%#*####%%%%%%%*             
-             :@@@@@%#+**#*++****+#%%%              
-              -%@%#*%*%++*%-%#%**+##%              
-               **%*++===+*=:*-==--*+               
-                +***+*--*==-------+                
-                :%#**+=--==--:---.                 
-                 :%*****#***+*+==                  
-                   =*********==:                   
-                   :**#***++===:                   
-                  %-****###*===.#                  
-                %%@-:+****+=--  +%%*               
-           #%%%%%@%-:...+++=    %%%%%%%%#:         
-     .+%%%%%%%%%%%%+:.. =##:   .%%%%%%%%%%%%%%:    
-  %%%%%%%%%%%%@%%%%%...#%%#%*  =%%%%%%%%%%%%%%%%%= 
- #%%%%%%%%%%%%%%%%%%....-%% . :%%%%%%%%%%%%%%%%%%% 
- %%%%%%%%%%%%%%%%%%%=...%%%*. .%%%%%%%%%%%%%%%%%%% 
- %%%%%%%%%%%%%%%%%%%%..:%%##. =%%%%%%%%%%%%%%%%%%%#
-%%%%%%%%%%%%%%%%%%%%%. +%%%#. %%%%%%%%%%%%%%%%%%%%%
-```
-
-```
-+---------------------------------------+
-|  root@jomawii:~# whoami               |
-|  > Jomari Miranda                     |
-|  > Cybersecurity Student              |
-|  > Future Cloud Security Analyst      |
-|  root@jomawii:~# _                    |
-+---------------------------------------+
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=root%40jomawii%3A~%23+whoami;Jomari+Miranda;Cybersecurity+Student;Future+Cloud+Security+Analyst" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
