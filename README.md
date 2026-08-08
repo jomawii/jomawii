@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="ascii_decrypt.gif" width="350" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=root%40jomawii%3A~%23+whoami;Jomari+Miranda;Cybersecurity+Student;Future+Cloud+Security+Analyst" />
 </p>
 
