@@ -86,6 +86,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20CONTRIBUTION_SNAKE&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
 </p>
 
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/jomawii/jomawii/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 <br>
 
 <p align="center">
