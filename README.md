@@ -51,12 +51,8 @@
 ## Achievements
 
 <p align="center">
-  <a href="https://www.credly.com/badges/0acbda8a-a93b-41fc-a1b2-3ff8ad4d6da6/public_url">
-    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" width="120" alt="Introduction to Cybersecurity - Cisco" />
-  </a>
-  <a href="https://www.credly.com/badges/76a4c065-0f5e-40d3-98d8-27fa0e36a93a/public_url">
-    <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/linkedin_thumb_image.png" width="120" alt="Networking Basics - Cisco" />
-  </a>
+  <a href="https://www.credly.com/badges/0acbda8a-a93b-41fc-a1b2-3ff8ad4d6da6/public_url"><img src="https://img.shields.io/badge/CISCO-Introduction_to_Cybersecurity-white?style=for-the-badge&labelColor=000000&color=FFFFFF" /></a>
+  <a href="https://www.credly.com/badges/76a4c065-0f5e-40d3-98d8-27fa0e36a93a/public_url"><img src="https://img.shields.io/badge/CISCO-Networking_Basics-white?style=for-the-badge&labelColor=000000&color=FFFFFF" /></a>
 </p>
 
 - TryHackMe / HackTheBox: no rooms completed yet
