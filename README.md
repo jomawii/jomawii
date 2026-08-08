@@ -12,7 +12,25 @@
 +---------------------------------------+
 ```
 
-<pre align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+  <img src="https://img.shields.io/badge/ACCESS-AUTHORIZED-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+  <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+</p>
+
+## About Me
+
+- Cybersecurity student currently learning security fundamentals
+- Working toward becoming a Cloud Security Analyst
+- Interested in cloud platforms (AWS, Azure) and how they're secured
+
+<details>
+<summary>View ASCII Portrait</summary>
+<pre>
 :+*#%##*-***+#*+.                               
                             .##%%%%%%%%@@%%@%%%%%%%-                            
                          .:#%%%%%#%%@#%@@@%%@%@@@@%%%*                          
@@ -51,24 +69,9 @@
 -%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%.. .%%%%###: .:%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 *%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+. -%%%%###: .#%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%
 </pre>
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
-  <img src="https://img.shields.io/badge/ACCESS-AUTHORIZED-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
-  <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
-</p>
-
-## About Me
-
-- Cybersecurity student currently learning security fundamentals
-- Working toward becoming a Cloud Security Analyst
-- Interested in cloud platforms (AWS, Azure) and how they're secured
-
-
+<br>
 <br>
 
 ## Arsenal
