@@ -6,8 +6,8 @@
 +---------------------------------------+
 |  root@jomawii:~# whoami                |
 |  > Jomari Miranda                      |
-|  > Cybersecurity Student               |
-|  > Future Cloud Security Analyst       |
+|  > Cybersecurity Student                |
+|  > Future Cloud Security Analyst        |
 |  root@jomawii:~# _                     |
 +---------------------------------------+
 ```
