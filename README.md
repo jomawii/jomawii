@@ -1,6 +1,6 @@
-<h1 align="center">
-  <code>root@jomawii:~#</code> Jomari Miranda
-</h1>
+<h1 align="center">root@jomawii:~# Jomari Miranda</h1>
+
+<p align="center">Cybersecurity Student | Future Cloud Security Analyst</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
@@ -12,14 +12,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
 </p>
 
-## About
+## About Me
 
-```bash
-whoami="Jomari Miranda"
-role="Cybersecurity Student | Future Cloud Security Analyst"
-currently_learning="Security Fundamentals â†’ Cloud Security"
-goal="Becoming a Cloud Security Analyst"
-```
+- Cybersecurity student currently learning security fundamentals
+- Working toward becoming a Cloud Security Analyst
+- Interested in cloud platforms (AWS, Azure) and how they're secured
 
 <br>
 
@@ -44,15 +41,11 @@ goal="Becoming a Cloud Security Analyst"
 
 ## Achievements
 
-<!-- growing list â€” check these off as you go -->
-
-- [ ] `Certification` â€” CompTIA Security+, AWS Cloud Practitioner, etc.
-- [ ] `TryHackMe / HackTheBox` â€” first room completed
-- [ ] `Cloud Project` â€” AWS/Azure IAM, S3 hardening, etc.
-- [ ] `CTF` â€” first competition entered
-- [ ] `Write-up` â€” first published
-
-<i>Currently at the security-fundamentals stage, working toward Cloud Security Analyst.</i>
+- Certification: none yet - CompTIA Security+ or AWS Cloud Practitioner planned
+- TryHackMe / HackTheBox: no rooms completed yet
+- Cloud Project: none published yet
+- CTF: no competitions entered yet
+- Write-up: none published yet
 
 <br>
 
@@ -78,10 +71,6 @@ goal="Becoming a Cloud Security Analyst"
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i>
 </p>
 
 <p align="center">
