@@ -68,10 +68,6 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jomawii&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jomawii&theme=onedark&column=4" />
-</p>
-
 <br>
 
 ## Contribution Snake
