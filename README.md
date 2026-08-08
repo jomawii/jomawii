@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b2b2b,100:0d0d0d&height=200&section=header&text=JOMARI%20MIRANDA&fontColor=FFFFFF&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=JOMARI%20MIRANDA&fontColor=FFFFFF&fontSize=40&fontAlignY=50" width="100%"/>
 </p>
 
 <p align="center">
