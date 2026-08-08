@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=whoami;root%40github%3A~%23+cybersecurity+enthusiast;sudo+access+granted+%E2%9C%93" alt="Typing SVG" />
+  <code>root@jomawii:~#</code> Jomari Miranda
 </h1>
 
 <p align="center">
@@ -12,23 +12,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
 </p>
 
-## ```> about_me.sh```
+## About
 
 ```bash
-#!/bin/bash
 whoami="Jomari Miranda"
 role="Cybersecurity Student | Future Cloud Security Analyst"
-currently_learning="Security Fundamentals → Cloud Security"
+currently_learning="Security Fundamentals â†’ Cloud Security"
 goal="Becoming a Cloud Security Analyst"
-fun_fact="I turn coffee into exploits ☕"
-
-echo "Initializing profile..."
-echo "Connection secure. Welcome."
 ```
 
 <br>
 
-## ```> arsenal --list```
+## Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
@@ -47,21 +42,21 @@ echo "Connection secure. Welcome."
 
 <br>
 
-## ```> achievements --certs```
+## Achievements
 
-<!-- 🏆 Growing list — check these off / fill them in as you go -->
+<!-- growing list â€” check these off as you go -->
 
-- [ ] 📜 First certification (e.g. CompTIA Security+, AWS Cloud Practitioner)
-- [ ] 🎯 First TryHackMe / HackTheBox room completed
-- [ ] ☁️ First cloud security project (AWS/Azure IAM, S3 hardening, etc.)
-- [ ] 🥇 First CTF competition entered
-- [ ] 📝 First security write-up published
+- [ ] `Certification` â€” CompTIA Security+, AWS Cloud Practitioner, etc.
+- [ ] `TryHackMe / HackTheBox` â€” first room completed
+- [ ] `Cloud Project` â€” AWS/Azure IAM, S3 hardening, etc.
+- [ ] `CTF` â€” first competition entered
+- [ ] `Write-up` â€” first published
 
-<i>Currently at the "general security fundamentals" stage, working toward Cloud Security Analyst.</i>
+<i>Currently at the security-fundamentals stage, working toward Cloud Security Analyst.</i>
 
 <br>
 
-## ```> stats --fetch```
+## Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jomawii&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
@@ -74,7 +69,7 @@ echo "Connection secure. Welcome."
 
 <br>
 
-## ```> contact --secure-channel```
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jomari-miranda-663892377"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
