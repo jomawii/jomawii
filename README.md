@@ -4,11 +4,11 @@
 
 ```
 +---------------------------------------+
-|  root@jomawii:~# whoami                |
-|  > Jomari Miranda                      |
-|  > Cybersecurity Student                |
-|  > Future Cloud Security Analyst        |
-|  root@jomawii:~# _                     |
+|  root@jomawii:~# whoami               |
+|  > Jomari Miranda                     |
+|  > Cybersecurity Student              |
+|  > Future Cloud Security Analyst      |
+|  root@jomawii:~# _                    |
 +---------------------------------------+
 ```
 
