@@ -2,6 +2,16 @@
 
 <p align="center">Cybersecurity Student | Future Cloud Security Analyst</p>
 
+```
++---------------------------------------+
+|  root@jomawii:~# whoami                |
+|  > Jomari Miranda                      |
+|  > Cybersecurity Student                |
+|  > Future Cloud Security Analyst        |
+|  root@jomawii:~# _                     |
++---------------------------------------+
+```
+
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
   <img src="https://img.shields.io/badge/ACCESS-AUTHORIZED-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
@@ -17,6 +27,7 @@
 - Cybersecurity student currently learning security fundamentals
 - Working toward becoming a Cloud Security Analyst
 - Interested in cloud platforms (AWS, Azure) and how they're secured
+
 
 <br>
 
@@ -52,13 +63,22 @@
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jomawii&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jomawii&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomawii&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jomawii&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" />
 </p>
+
+<br>
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jomawii/jomawii/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<i>Note: this animated snake needs a one-time setup below to start working.</i>
 
 <br>
 
