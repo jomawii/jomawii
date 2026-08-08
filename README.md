@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jomawii&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jomawii&theme=onedark&column=4" />
 </p>
 
 <br>
