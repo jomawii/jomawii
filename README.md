@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=JOMARI%20MIRANDA&fontColor=FFFFFF&fontSize=40&fontAlignY=50" width="100%"/>
+  <img src="matrix_banner.gif" width="100%"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20ABOUT_ME&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20ABOUT%20ME&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=50" width="100%"/>
 </p>
 
 - Cybersecurity student currently learning security fundamentals
@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20ARSENAL&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20ARSENAL&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=50" width="100%"/>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20ACHIEVEMENTS&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20ACHIEVEMENTS&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=50" width="100%"/>
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20STATS&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20STATS&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=50" width="100%"/>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20CONTRIBUTION_SNAKE&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20CONTRIBUTION%20SNAKE&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=50" width="100%"/>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20CONTACT&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20CONTACT&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=50" width="100%"/>
 </p>
 
 <p align="center">
