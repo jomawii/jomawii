@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=JOMARI%20MIRANDA&fontColor=FFFFFF&fontSize=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b2b2b,100:0d0d0d&height=200&section=header&text=JOMARI%20MIRANDA&fontColor=FFFFFF&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
 </p>
 
-## About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20ABOUT_ME&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+</p>
 
 - Cybersecurity student currently learning security fundamentals
 - Working toward becoming a Cloud Security Analyst
@@ -29,7 +31,9 @@
 <br>
 <br>
 
-## Arsenal
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20ARSENAL&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
@@ -48,7 +52,9 @@
 
 <br>
 
-## Achievements
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20ACHIEVEMENTS&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://www.credly.com/badges/0acbda8a-a93b-41fc-a1b2-3ff8ad4d6da6/public_url"><img src="https://img.shields.io/badge/CISCO-Introduction_to_Cybersecurity-white?style=for-the-badge&labelColor=000000&color=FFFFFF" /></a>
@@ -62,24 +68,29 @@
 
 <br>
 
-## Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20STATS&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jomawii&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </p>
 
-<br>
-
-## Contribution Snake
-
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/jomawii/jomawii/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jomawii&theme=onedark&column=4" />
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20CONTRIBUTION_SNAKE&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+</p>
 
 <br>
 
-## Contact
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20CONTACT&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=8" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jomari-miranda-663892377"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
