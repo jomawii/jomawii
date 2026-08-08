@@ -80,7 +80,6 @@
   <img width="100%" src="https://raw.githubusercontent.com/jomawii/jomawii/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<i>Note: this animated snake needs a one-time setup below to start working.</i>
 
 <br>
 
