@@ -114,9 +114,6 @@ leave your device). Covered by 20 automated unit tests.
   <img width="100%" src="https://raw.githubusercontent.com/jomawii/jomawii/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<i>Note: this animated snake needs a one-time setup below to start working.</i>
-
-<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20CONTACT&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=50" width="100%"/>
