@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
   <img src="https://img.shields.io/badge/ACCESS-AUTHORIZED-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
-  <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+  <img src="https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-white?style=for-the-badge&labelColor=000000&color=FFFFFF" />
 </p>
 
 <p align="center">
@@ -27,6 +27,22 @@
 - Cybersecurity student currently learning security fundamentals
 - Working toward becoming a Cloud Security Analyst
 - Interested in cloud platforms (AWS, Azure) and how they're secured
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20PROJECTS&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=50" width="100%"/>
+</p>
+
+**[Password Strength Checker](https://github.com/jomawii/password-strength-checker)**
+A Python CLI tool that scores password strength using length analysis,
+character variety, leetspeak normalization, keyboard-walk and sequential
+pattern detection, entropy estimation, and a real breach check against
+the Have I Been Pwned database (via SHA-1 k-anonymity, so passwords never
+leave your device). Covered by 20 automated unit tests.
+
+`Python` `Regex` `SHA-1` `HIBP API` `unittest`
 
 <br>
 <br>
@@ -61,10 +77,18 @@
   <a href="https://www.credly.com/badges/76a4c065-0f5e-40d3-98d8-27fa0e36a93a/public_url"><img src="https://img.shields.io/badge/CISCO-Networking_Basics-white?style=for-the-badge&labelColor=000000&color=FFFFFF" /></a>
 </p>
 
-- TryHackMe / HackTheBox: no rooms completed yet
-- Cloud Project: none published yet
-- CTF: no competitions entered yet
-- Write-up: none published yet
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=%3E%20CURRENT%20FOCUS&fontColor=FFFFFF&fontSize=22&fontAlignY=65&fontAlign=50" width="100%"/>
+</p>
+
+- Building cybersecurity projects with Python
+- Learning networking and security fundamentals
+- Exploring cloud security with AWS and Azure
+- Working toward CTFs, labs, and practical security projects
+
+<br>
 
 <br>
 
@@ -90,6 +114,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/jomawii/jomawii/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<i>Note: this animated snake needs a one-time setup below to start working.</i>
 
 <br>
 
